@@ -1,0 +1,18 @@
+\babel@toc {english}{}\relax 
+\contentsline {section}{\numberline {1}Review Session}{2}{section.1}%
+\contentsline {section}{\numberline {2}Full Configuration Interaction}{3}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Orders of the orbitals}{3}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Two-electron Interaction}{5}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}Excited Determinants and Full Configuration Intereaction}{6}{subsection.2.3}%
+\contentsline {section}{\numberline {3}Hartree-Fock Approximation}{7}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Self-consistent Procedure}{8}{subsection.3.1}%
+\contentsline {section}{\numberline {4}Symmetry in Quantum Mechanics}{9}{section.4}%
+\contentsline {subsection}{\numberline {4.1}General Principal of Symmetry}{9}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Group}{11}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}Example of Groups in Physics}{11}{subsection.4.3}%
+\contentsline {subsection}{\numberline {4.4}Consequences of Symmetry}{14}{subsection.4.4}%
+\contentsline {subsubsection}{\numberline {4.4.1}Example: Particle on a Ring}{14}{subsubsection.4.4.1}%
+\contentsline {subsubsection}{\numberline {4.4.2}Consequences of Symmetry: Multiplet}{16}{subsubsection.4.4.2}%
+\contentsline {subsubsection}{\numberline {4.4.3}Consequences of Symmetry: Irreducible Representations}{17}{subsubsection.4.4.3}%
+\contentsline {subsection}{\numberline {4.5}Complete Set of Commuting Operators}{19}{subsection.4.5}%
+\contentsfinish 
